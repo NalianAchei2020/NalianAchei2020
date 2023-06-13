@@ -1,8 +1,8 @@
-<h1 align="center">Hi there 👋 am Nwanjoh Nalian Achei</h1>
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWGbC_ssc15PaQSzsU8jYvZOL7ZQvPF2p8OfNmqCn-fuGxUqXonOi9X8dzcfjWJWEy2y4&usqp=CAU" height="300" width="600"/>
 </p>
 <hr>
+<h1 align="center">Hi there 👋 am Nwanjoh Nalian Achei</h1>
 <h3 align="center">Software Engineer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/nalian-achei-683208275" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
@@ -48,10 +48,10 @@ fascinated</b>
 
 
 ## Git hub stats
+<img align="left" width="47%" src="http://github-readme-streak-stats.herokuapp.com?user=NalianAchei2020&theme=elegant&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=54AEFF&border=AFB8C18B&background=F6F8FA0F&ring=FFBC00&fire=FFBC00&sideLabels=00DB49&dates=8A8FA0&stroke=AFB8C128&sideNums=8A8FA0&currStreakNum=8A8FA0)](https://git.io/streak-stats" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=NalianAchei2020&show_icons=true&theme=transparent" />
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NalianAchei2020&theme=elegant&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=54AEFF&border=AFB8C18B&background=F6F8FA0F&ring=FFBC00&fire=FFBC00&sideLabels=00DB49&dates=8A8FA0&stroke=AFB8C128&sideNums=8A8FA0&currStreakNum=8A8FA0)](https://git.io/streak-stats)
-
-![Nalian Achei's GitHub stats](https://github-readme-stats.vercel.app/api?username=NalianAchei2020&count_private=true&theme=dark&show_icons=true&bg_color=F6F8FA0F&title_color=00DB49&text_color=8A8FA0&icon_color=FFBC00&border_color=AFB8C175)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NalianAchei2020&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## What I'm doing now
 - currently on the lookout for new opportunities
