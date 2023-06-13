@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWGbC_ssc15PaQSzsU8jYvZOL7ZQvPF2p8OfNmqCn-fuGxUqXonOi9X8dzcfjWJWEy2y4&usqp=CAU" height="300" width="600"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWGbC_ssc15PaQSzsU8jYvZOL7ZQvPF2p8OfNmqCn-fuGxUqXonOi9X8dzcfjWJWEy2y4&usqp=CAU" height="250" width="650"/>
 </p>
 <hr>
 <h1 align="center">Hi there 👋 am Nwanjoh Nalian Achei</h1>
@@ -43,15 +43,11 @@ fascinated</b>
 <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="mongodb"  style="height:70px; width:100px"/>   <img src="https://cdn4.iconfinder.com/data/icons/flat-pro-database-set-1/32/mysql-badge-512.png" alt="mysql"  style="height:50px; width:80px"/>
 
 
-### Operating systems
-<img src="https://1000logos.net/wp-content/uploads/2017/03/Symbol-Linux.jpg" alt="linux"  style="height:50px; width:80px"/>   <img src="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/uploads/2016/10/server2016_1_0.jpg?itok=Hdy_X5d7" alt="windows"  style="height:70px; width:150px"/>
-
-
 ## Git hub stats
 <img align="left" width="47%" src="http://github-readme-streak-stats.herokuapp.com?user=NalianAchei2020&theme=elegant&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=54AEFF&border=AFB8C18B&background=F6F8FA0F&ring=FFBC00&fire=FFBC00&sideLabels=00DB49&dates=8A8FA0&stroke=AFB8C128&sideNums=8A8FA0&currStreakNum=8A8FA0)](https://git.io/streak-stats" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=NalianAchei2020&show_icons=true&theme=transparent" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NalianAchei2020&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NalianAchei2020&hide_progress=true)
 
 ## What I'm doing now
 - currently on the lookout for new opportunities
